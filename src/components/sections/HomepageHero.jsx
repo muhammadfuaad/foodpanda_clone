@@ -2,7 +2,7 @@ function HomepageHero() {
 
   return (
     <div className="flex" id="hero">
-      <div className="w-[55%]">
+      <div className="w-[55%] px-12">
         <p className="text-[1.75rem] font-medium text-gray mt-32">It's the food and groceries you love, delivered</p>
         <div className="flex gap-4 mt-6 bg-white p-4 rounded-lg">
           <div className="bg-white flex outline outline-1 outline-[#bdbdbd] rounded-lg">

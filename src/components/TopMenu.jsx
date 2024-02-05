@@ -5,7 +5,7 @@ function TopMenu() {
   return (
     <div className="flex justify-between px-12 py-4 bg-white shadow-xl">
       <div className="flex items-center gap-2">
-        <img src="./images/foodpanda_logo.png" className="w-8 h-8"/>
+        <img src="./images/logo.png" className="w-8 h-8"/>
         <p className="text-primary font-semibold text-[1.5rem]">foodpanda</p>
       </div>
       <div className="flex gap-4">

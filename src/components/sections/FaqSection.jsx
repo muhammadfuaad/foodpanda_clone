@@ -4,7 +4,7 @@ import Faq from "../Faq"
 function FaqSection() {
 
   return (
-    <div>
+    <div className="flex flex-col gap-4 px-12">
       <p className="text-[1.5rem] font-bold text-gray">Frequently Asked Questions</p>
 
       <Faq 

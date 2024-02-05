@@ -1,12 +1,18 @@
 #hero {
-  background-image: url("hero_image.jpg");
+  background-image: url("food_3.jpg");
   background-size: cover;
   background-position: right;
   height: 70vh;
 }
 
 #second_section {
-  background-image: url("food.jpg");
+  background-image: url("food_1.jpg");
+  background-size: cover;
+  height: 60vh;
+}
+
+#fifth_section {
+  background-image: url("food_2.jpg");
   background-size: cover;
   height: 60vh;
 }

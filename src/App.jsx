@@ -6,6 +6,7 @@ import HomepageHero from './components/sections/HomepageHero.jsx'
 import FaqSection from './components/sections/FaqSection.jsx'
 import Footer from './components/Footer.jsx'
 import SecondSection from './components/sections/SecondSection.jsx'
+import FifthSection from './components/sections/FifthSection.jsx'
 
 function App() {
 
@@ -19,6 +20,7 @@ function App() {
         <HomepageHero />
         <SecondSection />
         <CitiesSection />
+        <FifthSection />
         <FaqSection />
         <Footer />
       </div>
