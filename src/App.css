@@ -11,6 +11,11 @@
   height: 60vh;
 }
 
+#city_box {
+  background-image: url("lahore.jpg");
+  background-size: cover;
+}
+
 #fifth_section {
   background-image: url("food_2.jpg");
   background-size: cover;
