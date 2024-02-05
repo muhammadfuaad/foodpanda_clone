@@ -1,5 +1,7 @@
 #hero {
   background-image: url("hero_image.jpg");
+  background-size: cover;
+  background-position: right;
   height: 70vh;
 }
 
